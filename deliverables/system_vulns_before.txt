@@ -1,0 +1,635 @@
+NAME                         INSTALLED                     FIXED IN                            TYPE            VULNERABILITY        SEVERITY    EPSS           RISK          
+stdlib                       go1.19.2                      *1.20.10, 1.21.3                    go-module       CVE-2023-44487       High        94.4% (99th)   78.8   (kev)  
+stdlib                       go1.19.2                      *1.21.9, 1.22.2                     go-module       CVE-2023-45288       High        76.5% (98th)   57.4          
+rsa                          3.1.4                         3.3                                 python          GHSA-8rjr-6qq5-pj9p  Medium      5.1% (89th)    2.6           
+zip                          3.0-12build2                  (won't fix)                         deb             CVE-2018-13410       Low         7.9% (92nd)    2.4           
+stdlib                       go1.19.2                      *1.21.10, 1.22.3                    go-module       CVE-2024-24787       Medium      2.7% (85th)    1.5           
+stdlib                       go1.19.2                      *1.21.8, 1.22.1                     go-module       CVE-2024-24784       High        2.0% (83rd)    1.5           
+login                        1:4.8.1-2ubuntu2.2                                                deb             CVE-2024-56433       Low         4.5% (89th)    1.4           
+passwd                       1:4.8.1-2ubuntu2.2                                                deb             CVE-2024-56433       Low         4.5% (89th)    1.4           
+stdlib                       go1.19.2                      *1.21.12, 1.22.5                    go-module       CVE-2024-24791       High        1.0% (77th)    0.8           
+openssh-client               1:8.9p1-3ubuntu0.14           (won't fix)                         deb             CVE-2016-20012       Negligible  14.6% (94th)   0.7           
+stdlib                       go1.19.2                      *1.19.8, 1.20.3                     go-module       CVE-2023-24538       Critical    0.8% (73rd)    0.7           
+stdlib                       go1.19.2                      *1.21.8, 1.22.1                     go-module       CVE-2024-24785       Medium      1.3% (79th)    0.7           
+patch                        2.7.6-7build2                                                     deb             CVE-2018-6952        Negligible  11.8% (93rd)   0.6           
+stdlib                       go1.19.2                      1.21.0-0                            go-module       CVE-2023-24531       Critical    0.5% (65th)    0.5           
+Octokit                      0.48.0                        3.1.2                               UnknownPackage  CVE-2023-50728       High        0.5% (65th)    0.3           
+stdlib                       go1.19.2                      *1.21.8, 1.22.1                     go-module       CVE-2024-24783       Medium      0.6% (69th)    0.3           
+stdlib                       go1.19.2                      *1.19.10, 1.20.5                    go-module       CVE-2023-29405       Critical    0.3% (55th)    0.3           
+libperl5.34                  5.34.0-3ubuntu1.5             (won't fix)                         deb             CVE-2023-31486       Medium      0.6% (69th)    0.3           
+perl                         5.34.0-3ubuntu1.5             (won't fix)                         deb             CVE-2023-31486       Medium      0.6% (69th)    0.3           
+perl-base                    5.34.0-3ubuntu1.5             (won't fix)                         deb             CVE-2023-31486       Medium      0.6% (69th)    0.3           
+perl-modules-5.34            5.34.0-3ubuntu1.5             (won't fix)                         deb             CVE-2023-31486       Medium      0.6% (69th)    0.3           
+stdlib                       go1.19.2                      *1.21.8, 1.22.1                     go-module       CVE-2023-45289       Medium      0.6% (69th)    0.3           
+stdlib                       go1.19.2                      *1.21.8, 1.22.1                     go-module       CVE-2023-45290       Medium      0.5% (65th)    0.3           
+stdlib                       go1.19.2                      *1.19.9, 1.20.4                     go-module       CVE-2023-24540       Critical    0.2% (47th)    0.2           
+stdlib                       go1.19.2                      *1.22.7, 1.23.1                     go-module       CVE-2024-34156       High        0.3% (53rd)    0.2           
+stdlib                       go1.19.2                      1.19.6                              go-module       CVE-2022-41723       High        0.3% (50th)    0.2           
+stdlib                       go1.19.2                      *1.19.11, 1.20.6                    go-module       CVE-2023-29406       Medium      0.3% (56th)    0.2           
+git                          1:2.34.1-1ubuntu1.17                                              deb             CVE-2024-52005       Medium      0.4% (59th)    0.2           
+git-man                      1:2.34.1-1ubuntu1.17                                              deb             CVE-2024-52005       Medium      0.4% (59th)    0.2           
+libpython3.10-minimal        3.10.12-1~22.04.15                                                deb             CVE-2025-69534       Medium      0.4% (58th)    0.2           
+libpython3.10-stdlib         3.10.12-1~22.04.15                                                deb             CVE-2025-69534       Medium      0.4% (58th)    0.2           
+python3.10                   3.10.12-1~22.04.15                                                deb             CVE-2025-69534       Medium      0.4% (58th)    0.2           
+python3.10-minimal           3.10.12-1~22.04.15                                                deb             CVE-2025-69534       Medium      0.4% (58th)    0.2           
+libxslt1-dev                 1.1.34-4ubuntu0.22.04.5       (won't fix)                         deb             CVE-2015-9019        Low         0.6% (69th)    0.2           
+libxslt1.1                   1.1.34-4ubuntu0.22.04.5       (won't fix)                         deb             CVE-2015-9019        Low         0.6% (69th)    0.2           
+wget                         1.21.2-2ubuntu1.1                                                 deb             CVE-2024-10524       Low         0.6% (69th)    0.2           
+libgcrypt20                  1.9.4-3ubuntu3                                                    deb             CVE-2024-2236        Low         0.6% (69th)    0.2           
+libgcrypt20-dev              1.9.4-3ubuntu3                                                    deb             CVE-2024-2236        Low         0.6% (69th)    0.2           
+cryptography                 43.0.3                        44.0.1                              python          GHSA-79v4-65xg-pq4g  Low         0.6% (68th)    0.2           
+stdlib                       go1.19.2                      1.18.9, *1.19.4                     go-module       CVE-2022-41717       Medium      0.3% (55th)    0.2           
+cpp-11                       11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2021-3826        Low         0.6% (68th)    0.2           
+g++-11                       11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2021-3826        Low         0.6% (68th)    0.2           
+gcc-11                       11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2021-3826        Low         0.6% (68th)    0.2           
+gcc-11-base                  11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2021-3826        Low         0.6% (68th)    0.2           
+libasan6                     11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2021-3826        Low         0.6% (68th)    0.2           
+libgcc-11-dev                11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2021-3826        Low         0.6% (68th)    0.2           
+libstdc++-11-dev             11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2021-3826        Low         0.6% (68th)    0.2           
+libtsan0                     11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2021-3826        Low         0.6% (68th)    0.2           
+stdlib                       go1.19.2                      *1.21.11, 1.22.4                    go-module       CVE-2024-24790       Critical    0.2% (38th)    0.2           
+libsystemd0                  249.11-0ubuntu3.20                                                deb             CVE-2023-7008        Low         0.5% (64th)    0.1           
+libudev1                     249.11-0ubuntu3.20                                                deb             CVE-2023-7008        Low         0.5% (64th)    0.1           
+stdlib                       go1.19.2                      1.20.0                              go-module       CVE-2023-45287       High        0.2% (40th)    0.1           
+libssl-dev                   3.0.2-0ubuntu1.23             (won't fix)                         deb             CVE-2024-41996       Low         0.4% (63rd)    0.1           
+libssl3                      3.0.2-0ubuntu1.23             (won't fix)                         deb             CVE-2024-41996       Low         0.4% (63rd)    0.1           
+openssl                      3.0.2-0ubuntu1.23             (won't fix)                         deb             CVE-2024-41996       Low         0.4% (63rd)    0.1           
+stdlib                       go1.19.2                      *1.22.7, 1.23.1                     go-module       CVE-2024-34158       High        0.2% (36th)    0.1           
+stdlib                       go1.19.2                      *1.19.8, 1.20.3                     go-module       CVE-2023-24534       High        0.2% (36th)    0.1           
+stdlib                       go1.19.2                      *1.19.10, 1.20.5                    go-module       CVE-2023-29402       Critical    0.1% (31st)    0.1           
+stdlib                       go1.19.2                      *1.23.8, 1.24.2                     go-module       CVE-2025-22871       Critical    0.1% (31st)    0.1           
+git                          1:2.34.1-1ubuntu1.17          (won't fix)                         deb             CVE-2018-1000021     Low         0.4% (59th)    0.1           
+git-man                      1:2.34.1-1ubuntu1.17          (won't fix)                         deb             CVE-2018-1000021     Low         0.4% (59th)    0.1           
+rsa                          3.1.4                         4.7                                 python          GHSA-xrx6-fmxq-rjj2  High        0.1% (34th)    0.1           
+cpp                          4:11.2.0-1ubuntu1             (won't fix)                         deb             CVE-2020-23026       Low         0.3% (56th)    0.1           
+g++                          4:11.2.0-1ubuntu1             (won't fix)                         deb             CVE-2020-23026       Low         0.3% (56th)    0.1           
+gcc                          4:11.2.0-1ubuntu1             (won't fix)                         deb             CVE-2020-23026       Low         0.3% (56th)    0.1           
+cpp-11                       11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2021-46195       Low         0.3% (50th)    < 0.1         
+g++-11                       11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2021-46195       Low         0.3% (50th)    < 0.1         
+gcc-11                       11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2021-46195       Low         0.3% (50th)    < 0.1         
+gcc-11-base                  11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2021-46195       Low         0.3% (50th)    < 0.1         
+libasan6                     11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2021-46195       Low         0.3% (50th)    < 0.1         
+libgcc-11-dev                11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2021-46195       Low         0.3% (50th)    < 0.1         
+libstdc++-11-dev             11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2021-46195       Low         0.3% (50th)    < 0.1         
+libtsan0                     11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2021-46195       Low         0.3% (50th)    < 0.1         
+libsqlite3-0                 3.37.2-2ubuntu0.5             (won't fix)                         deb             CVE-2021-45346       Low         0.3% (50th)    < 0.1         
+libsqlite3-dev               3.37.2-2ubuntu0.5             (won't fix)                         deb             CVE-2021-45346       Low         0.3% (50th)    < 0.1         
+rsa                          3.1.4                         4.1                                 python          GHSA-537h-rv9q-vvph  High        0.1% (28th)    < 0.1         
+stdlib                       go1.19.2                      *1.19.10, 1.20.5                    go-module       CVE-2023-29404       Critical    < 0.1% (24th)  < 0.1         
+libzstd1                     1.4.8+dfsg-3build1                                                deb             CVE-2022-4899        Low         0.3% (48th)    < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15                                                deb             CVE-2026-6100        Medium      0.2% (35th)    < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15                                                deb             CVE-2026-6100        Medium      0.2% (35th)    < 0.1         
+python3.10                   3.10.12-1~22.04.15                                                deb             CVE-2026-6100        Medium      0.2% (35th)    < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15                                                deb             CVE-2026-6100        Medium      0.2% (35th)    < 0.1         
+wget                         1.21.2-2ubuntu1.1                                                 deb             CVE-2021-31879       Medium      0.1% (35th)    < 0.1         
+jaraco-context               5.3.0                         6.1.0                               python          GHSA-58pv-8j8x-9vj2  High        < 0.1% (25th)  < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2017-13716       Low         0.2% (46th)    < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2017-13716       Low         0.2% (46th)    < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2017-13716       Low         0.2% (46th)    < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2017-13716       Low         0.2% (46th)    < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2017-13716       Low         0.2% (46th)    < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2017-13716       Low         0.2% (46th)    < 0.1         
+libssl-dev                   3.0.2-0ubuntu1.23             (won't fix)                         deb             CVE-2025-27587       Low         0.2% (45th)    < 0.1         
+libssl3                      3.0.2-0ubuntu1.23             (won't fix)                         deb             CVE-2025-27587       Low         0.2% (45th)    < 0.1         
+openssl                      3.0.2-0ubuntu1.23             (won't fix)                         deb             CVE-2025-27587       Low         0.2% (45th)    < 0.1         
+stdlib                       go1.19.2                      *1.22.11, 1.23.5, 1.24.0-rc.2       go-module       CVE-2024-45336       Medium      0.1% (30th)    < 0.1         
+stdlib                       go1.19.2                      *1.20.12, 1.21.5                    go-module       CVE-2023-39326       Medium      0.1% (31st)    < 0.1         
+libgssapi-krb5-2             1.19.2-2ubuntu0.7             (won't fix)                         deb             CVE-2018-5709        Negligible  1.2% (78th)    < 0.1         
+libk5crypto3                 1.19.2-2ubuntu0.7             (won't fix)                         deb             CVE-2018-5709        Negligible  1.2% (78th)    < 0.1         
+libkrb5-3                    1.19.2-2ubuntu0.7             (won't fix)                         deb             CVE-2018-5709        Negligible  1.2% (78th)    < 0.1         
+libkrb5support0              1.19.2-2ubuntu0.7             (won't fix)                         deb             CVE-2018-5709        Negligible  1.2% (78th)    < 0.1         
+stdlib                       go1.19.2                      *1.19.12, 1.20.7                    go-module       CVE-2023-29409       Medium      0.1% (29th)    < 0.1         
+node                         22.21.1                       20.20.0, *22.22.0, 24.13.0, 25.3.0  UnknownPackage  CVE-2025-59465       High        < 0.1% (22nd)  < 0.1         
+stdlib                       go1.19.2                      *1.22.11, 1.23.5, 1.24.0-rc.2       go-module       CVE-2024-45341       Medium      0.1% (27th)    < 0.1         
+stdlib                       go1.19.2                      *1.19.8, 1.20.3                     go-module       CVE-2023-24536       High        < 0.1% (21st)  < 0.1         
+stdlib                       go1.19.2                      *1.19.9, 1.20.4                     go-module       CVE-2023-24539       High        < 0.1% (20th)  < 0.1         
+stdlib                       go1.19.2                      1.19.6                              go-module       CVE-2022-41725       High        < 0.1% (19th)  < 0.1         
+stdlib                       go1.19.2                      *1.20.8, 1.21.1                     go-module       CVE-2023-39318       Medium      < 0.1% (24th)  < 0.1         
+stdlib                       go1.19.2                      *1.20.8, 1.21.1                     go-module       CVE-2023-39319       Medium      < 0.1% (24th)  < 0.1         
+git                          1:2.34.1-1ubuntu1.17          (won't fix)                         deb             CVE-2022-24975       Negligible  1.0% (76th)    < 0.1         
+git-man                      1:2.34.1-1ubuntu1.17          (won't fix)                         deb             CVE-2022-24975       Negligible  1.0% (76th)    < 0.1         
+stdlib                       go1.19.2                      *1.20.9, 1.21.2                     go-module       CVE-2023-39323       High        < 0.1% (18th)  < 0.1         
+jq                           1.6-2.1ubuntu3.2                                                  deb             CVE-2026-33948       Medium      < 0.1% (25th)  < 0.1         
+libjq1                       1.6-2.1ubuntu3.2                                                  deb             CVE-2026-33948       Medium      < 0.1% (25th)  < 0.1         
+stdlib                       go1.19.2                      *1.23.10, 1.24.4                    go-module       CVE-2025-4673        Medium      < 0.1% (22nd)  < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2019-1010204     Low         0.1% (34th)    < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2019-1010204     Low         0.1% (34th)    < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2019-1010204     Low         0.1% (34th)    < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2019-1010204     Low         0.1% (34th)    < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2019-1010204     Low         0.1% (34th)    < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2019-1010204     Low         0.1% (34th)    < 0.1         
+stdlib                       go1.19.2                      *1.20.12, 1.21.5                    go-module       CVE-2023-45285       High        < 0.1% (17th)  < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2025-1180        Medium      < 0.1% (23rd)  < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2025-1180        Medium      < 0.1% (23rd)  < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2025-1180        Medium      < 0.1% (23rd)  < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2025-1180        Medium      < 0.1% (23rd)  < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2025-1180        Medium      < 0.1% (23rd)  < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2025-1180        Medium      < 0.1% (23rd)  < 0.1         
+tar                          1.34+dfsg-1ubuntu0.1.22.04.2                                      deb             CVE-2025-45582       Medium      < 0.1% (23rd)  < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15            (won't fix)                         deb             CVE-2025-15366       Medium      < 0.1% (23rd)  < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15            (won't fix)                         deb             CVE-2025-15367       Medium      < 0.1% (23rd)  < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15            (won't fix)                         deb             CVE-2025-15366       Medium      < 0.1% (23rd)  < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15            (won't fix)                         deb             CVE-2025-15367       Medium      < 0.1% (23rd)  < 0.1         
+python3.10                   3.10.12-1~22.04.15            (won't fix)                         deb             CVE-2025-15366       Medium      < 0.1% (23rd)  < 0.1         
+python3.10                   3.10.12-1~22.04.15            (won't fix)                         deb             CVE-2025-15367       Medium      < 0.1% (23rd)  < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15            (won't fix)                         deb             CVE-2025-15366       Medium      < 0.1% (23rd)  < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15            (won't fix)                         deb             CVE-2025-15367       Medium      < 0.1% (23rd)  < 0.1         
+coreutils                    8.32-4.1ubuntu1.3                                                 deb             CVE-2025-5278        Low         0.1% (32nd)    < 0.1         
+stdlib                       go1.19.2                      *1.25.8, 1.26.1                     go-module       CVE-2026-25679       High        < 0.1% (16th)  < 0.1         
+stdlib                       go1.19.2                      *1.22.7, 1.23.1                     go-module       CVE-2024-34155       Medium      < 0.1% (23rd)  < 0.1         
+libelf1                      0.186-1ubuntu0.1                                                  deb             CVE-2025-1352        Low         0.1% (30th)    < 0.1         
+stdlib                       go1.19.2                      *1.19.9, 1.20.4                     go-module       CVE-2023-29400       High        < 0.1% (14th)  < 0.1         
+zsh                          5.8.1-1                                                           deb             CVE-2021-45444       Low         0.1% (29th)    < 0.1         
+zsh-common                   5.8.1-1                                                           deb             CVE-2021-45444       Low         0.1% (29th)    < 0.1         
+node                         22.21.1                       20.20.0, *22.22.0, 24.13.0, 25.3.0  UnknownPackage  CVE-2026-21637       High        < 0.1% (13th)  < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15                                                deb             CVE-2026-1502        Medium      < 0.1% (18th)  < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15                                                deb             CVE-2026-1502        Medium      < 0.1% (18th)  < 0.1         
+python3.10                   3.10.12-1~22.04.15                                                deb             CVE-2026-1502        Medium      < 0.1% (18th)  < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15                                                deb             CVE-2026-1502        Medium      < 0.1% (18th)  < 0.1         
+stdlib                       go1.19.2                      *1.24.8, 1.25.2                     go-module       CVE-2025-61725       High        < 0.1% (12th)  < 0.1         
+libexpat1                    2.4.7-1ubuntu0.7                                                  deb             CVE-2026-4739        Medium      < 0.1% (18th)  < 0.1         
+libexpat1-dev                2.4.7-1ubuntu0.7                                                  deb             CVE-2026-4739        Medium      < 0.1% (18th)  < 0.1         
+stdlib                       go1.19.2                      *1.24.8, 1.25.2                     go-module       CVE-2025-61723       High        < 0.1% (11th)  < 0.1         
+urllib3                      2.5.0                         2.6.0                               python          GHSA-gm62-xv2j-4w53  High        < 0.1% (9th)   < 0.1         
+jq                           1.6-2.1ubuntu3.2                                                  deb             CVE-2026-32316       Medium      < 0.1% (16th)  < 0.1         
+libjq1                       1.6-2.1ubuntu3.2                                                  deb             CVE-2026-32316       Medium      < 0.1% (16th)  < 0.1         
+stdlib                       go1.19.2                      *1.24.12, 1.25.6                    go-module       CVE-2025-61726       High        < 0.1% (9th)   < 0.1         
+urllib3                      2.5.0                         2.6.0                               python          GHSA-2xpw-w6gg-jr37  High        < 0.1% (8th)   < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15                                                deb             CVE-2026-3298        Medium      < 0.1% (15th)  < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15                                                deb             CVE-2026-3298        Medium      < 0.1% (15th)  < 0.1         
+python3.10                   3.10.12-1~22.04.15                                                deb             CVE-2026-3298        Medium      < 0.1% (15th)  < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15                                                deb             CVE-2026-3298        Medium      < 0.1% (15th)  < 0.1         
+libc-bin                     2.35-0ubuntu3.13                                                  deb             CVE-2026-4437        Medium      < 0.1% (15th)  < 0.1         
+libc-dev-bin                 2.35-0ubuntu3.13                                                  deb             CVE-2026-4437        Medium      < 0.1% (15th)  < 0.1         
+libc6                        2.35-0ubuntu3.13                                                  deb             CVE-2026-4437        Medium      < 0.1% (15th)  < 0.1         
+libc6-dev                    2.35-0ubuntu3.13                                                  deb             CVE-2026-4437        Medium      < 0.1% (15th)  < 0.1         
+locales                      2.35-0ubuntu3.13                                                  deb             CVE-2026-4437        Medium      < 0.1% (15th)  < 0.1         
+node                         22.21.1                       20.20.0, *22.22.0, 24.13.0, 25.3.0  UnknownPackage  CVE-2025-55131       High        < 0.1% (9th)   < 0.1         
+libc-bin                     2.35-0ubuntu3.13                                                  deb             CVE-2026-5450        Medium      < 0.1% (15th)  < 0.1         
+libc-dev-bin                 2.35-0ubuntu3.13                                                  deb             CVE-2026-5450        Medium      < 0.1% (15th)  < 0.1         
+libc6                        2.35-0ubuntu3.13                                                  deb             CVE-2026-5450        Medium      < 0.1% (15th)  < 0.1         
+libc6-dev                    2.35-0ubuntu3.13                                                  deb             CVE-2026-5450        Medium      < 0.1% (15th)  < 0.1         
+locales                      2.35-0ubuntu3.13                                                  deb             CVE-2026-5450        Medium      < 0.1% (15th)  < 0.1         
+libpng-dev                   1.6.37-3ubuntu0.4                                                 deb             CVE-2026-33636       Medium      < 0.1% (15th)  < 0.1         
+libpng16-16                  1.6.37-3ubuntu0.4                                                 deb             CVE-2026-33636       Medium      < 0.1% (15th)  < 0.1         
+libexpat1                    2.4.7-1ubuntu0.7                                                  deb             CVE-2025-59375       Medium      < 0.1% (15th)  < 0.1         
+libexpat1-dev                2.4.7-1ubuntu0.7                                                  deb             CVE-2025-59375       Medium      < 0.1% (15th)  < 0.1         
+jq                           1.6-2.1ubuntu3.2                                                  deb             CVE-2026-39979       Medium      < 0.1% (14th)  < 0.1         
+libjq1                       1.6-2.1ubuntu3.2                                                  deb             CVE-2026-39979       Medium      < 0.1% (14th)  < 0.1         
+binutils                     2.38-4ubuntu2.12              (won't fix)                         deb             CVE-2025-1149        Medium      < 0.1% (14th)  < 0.1         
+binutils-common              2.38-4ubuntu2.12              (won't fix)                         deb             CVE-2025-1149        Medium      < 0.1% (14th)  < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12              (won't fix)                         deb             CVE-2025-1149        Medium      < 0.1% (14th)  < 0.1         
+libbinutils                  2.38-4ubuntu2.12              (won't fix)                         deb             CVE-2025-1149        Medium      < 0.1% (14th)  < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12              (won't fix)                         deb             CVE-2025-1149        Medium      < 0.1% (14th)  < 0.1         
+libctf0                      2.38-4ubuntu2.12              (won't fix)                         deb             CVE-2025-1149        Medium      < 0.1% (14th)  < 0.1         
+urllib3                      2.5.0                         2.6.3                               python          GHSA-38jv-5279-wg99  High        < 0.1% (8th)   < 0.1         
+libc-bin                     2.35-0ubuntu3.13                                                  deb             CVE-2026-5928        Medium      < 0.1% (14th)  < 0.1         
+libc-dev-bin                 2.35-0ubuntu3.13                                                  deb             CVE-2026-5928        Medium      < 0.1% (14th)  < 0.1         
+libc6                        2.35-0ubuntu3.13                                                  deb             CVE-2026-5928        Medium      < 0.1% (14th)  < 0.1         
+libc6-dev                    2.35-0ubuntu3.13                                                  deb             CVE-2026-5928        Medium      < 0.1% (14th)  < 0.1         
+locales                      2.35-0ubuntu3.13                                                  deb             CVE-2026-5928        Medium      < 0.1% (14th)  < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2025-66862       Low         < 0.1% (22nd)  < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2025-66863       Low         < 0.1% (22nd)  < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2025-66865       Low         < 0.1% (22nd)  < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2025-66862       Low         < 0.1% (22nd)  < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2025-66863       Low         < 0.1% (22nd)  < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2025-66865       Low         < 0.1% (22nd)  < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2025-66862       Low         < 0.1% (22nd)  < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2025-66863       Low         < 0.1% (22nd)  < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2025-66865       Low         < 0.1% (22nd)  < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2025-66862       Low         < 0.1% (22nd)  < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2025-66863       Low         < 0.1% (22nd)  < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2025-66865       Low         < 0.1% (22nd)  < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2025-66862       Low         < 0.1% (22nd)  < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2025-66863       Low         < 0.1% (22nd)  < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2025-66865       Low         < 0.1% (22nd)  < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2025-66862       Low         < 0.1% (22nd)  < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2025-66863       Low         < 0.1% (22nd)  < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2025-66865       Low         < 0.1% (22nd)  < 0.1         
+libxslt1-dev                 1.1.34-4ubuntu0.22.04.5                                           deb             CVE-2025-11731       Low         < 0.1% (22nd)  < 0.1         
+libxslt1.1                   1.1.34-4ubuntu0.22.04.5                                           deb             CVE-2025-11731       Low         < 0.1% (22nd)  < 0.1         
+coreutils                    8.32-4.1ubuntu1.3             (won't fix)                         deb             CVE-2016-2781        Low         < 0.1% (22nd)  < 0.1         
+python3-pip                  22.0.2+dfsg-1ubuntu0.7                                            deb             CVE-2024-35195       Medium      < 0.1% (13th)  < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15                                                deb             CVE-2026-1299        Medium      < 0.1% (13th)  < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15                                                deb             CVE-2026-1299        Medium      < 0.1% (13th)  < 0.1         
+python3.10                   3.10.12-1~22.04.15                                                deb             CVE-2026-1299        Medium      < 0.1% (13th)  < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15                                                deb             CVE-2026-1299        Medium      < 0.1% (13th)  < 0.1         
+libc-bin                     2.35-0ubuntu3.13                                                  deb             CVE-2026-4046        Medium      < 0.1% (13th)  < 0.1         
+libc-dev-bin                 2.35-0ubuntu3.13                                                  deb             CVE-2026-4046        Medium      < 0.1% (13th)  < 0.1         
+libc6                        2.35-0ubuntu3.13                                                  deb             CVE-2026-4046        Medium      < 0.1% (13th)  < 0.1         
+libc6-dev                    2.35-0ubuntu3.13                                                  deb             CVE-2026-4046        Medium      < 0.1% (13th)  < 0.1         
+locales                      2.35-0ubuntu3.13                                                  deb             CVE-2026-4046        Medium      < 0.1% (13th)  < 0.1         
+libpam-modules               1.4.0-11ubuntu2.6             (won't fix)                         deb             CVE-2024-10041       Medium      < 0.1% (13th)  < 0.1         
+libpam-modules-bin           1.4.0-11ubuntu2.6             (won't fix)                         deb             CVE-2024-10041       Medium      < 0.1% (13th)  < 0.1         
+libpam-runtime               1.4.0-11ubuntu2.6             (won't fix)                         deb             CVE-2024-10041       Medium      < 0.1% (13th)  < 0.1         
+libpam0g                     1.4.0-11ubuntu2.6             (won't fix)                         deb             CVE-2024-10041       Medium      < 0.1% (13th)  < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15                                                deb             CVE-2026-3644        Medium      < 0.1% (12th)  < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15                                                deb             CVE-2026-3644        Medium      < 0.1% (12th)  < 0.1         
+python3.10                   3.10.12-1~22.04.15                                                deb             CVE-2026-3644        Medium      < 0.1% (12th)  < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15                                                deb             CVE-2026-3644        Medium      < 0.1% (12th)  < 0.1         
+libncurses-dev               6.3-2ubuntu0.1                                                    deb             CVE-2025-6141        Low         < 0.1% (21st)  < 0.1         
+libncurses5-dev              6.3-2ubuntu0.1                                                    deb             CVE-2025-6141        Low         < 0.1% (21st)  < 0.1         
+libncurses6                  6.3-2ubuntu0.1                                                    deb             CVE-2025-6141        Low         < 0.1% (21st)  < 0.1         
+libncursesw6                 6.3-2ubuntu0.1                                                    deb             CVE-2025-6141        Low         < 0.1% (21st)  < 0.1         
+libtinfo6                    6.3-2ubuntu0.1                                                    deb             CVE-2025-6141        Low         < 0.1% (21st)  < 0.1         
+ncurses-base                 6.3-2ubuntu0.1                                                    deb             CVE-2025-6141        Low         < 0.1% (21st)  < 0.1         
+ncurses-bin                  6.3-2ubuntu0.1                                                    deb             CVE-2025-6141        Low         < 0.1% (21st)  < 0.1         
+node                         22.21.1                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21710       High        < 0.1% (8th)   < 0.1         
+node                         22.22.0                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21710       High        < 0.1% (8th)   < 0.1         
+node                         22.22.1                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21710       High        < 0.1% (8th)   < 0.1         
+vim-common                   2:8.2.3995-1ubuntu2.28        (won't fix)                         deb             CVE-2022-3296        Low         < 0.1% (21st)  < 0.1         
+vim-tiny                     2:8.2.3995-1ubuntu2.28        (won't fix)                         deb             CVE-2022-3296        Low         < 0.1% (21st)  < 0.1         
+xxd                          2:8.2.3995-1ubuntu2.28        (won't fix)                         deb             CVE-2022-3296        Low         < 0.1% (21st)  < 0.1         
+node                         22.21.1                       20.20.0, *22.22.0, 24.13.0, 25.3.0  UnknownPackage  CVE-2025-59466       High        < 0.1% (8th)   < 0.1         
+libsystemd0                  249.11-0ubuntu3.20                                                deb             CVE-2026-40225       Medium      < 0.1% (12th)  < 0.1         
+libudev1                     249.11-0ubuntu3.20                                                deb             CVE-2026-40225       Medium      < 0.1% (12th)  < 0.1         
+zsh                          5.8.1-1                                                           deb             CVE-2019-20044       Low         < 0.1% (20th)  < 0.1         
+zsh-common                   5.8.1-1                                                           deb             CVE-2019-20044       Low         < 0.1% (20th)  < 0.1         
+vim-common                   2:8.2.3995-1ubuntu2.28        (won't fix)                         deb             CVE-2022-4141        Medium      < 0.1% (11th)  < 0.1         
+vim-tiny                     2:8.2.3995-1ubuntu2.28        (won't fix)                         deb             CVE-2022-4141        Medium      < 0.1% (11th)  < 0.1         
+xxd                          2:8.2.3995-1ubuntu2.28        (won't fix)                         deb             CVE-2022-4141        Medium      < 0.1% (11th)  < 0.1         
+openssh-client               1:8.9p1-3ubuntu0.14                                               deb             CVE-2026-35385       Medium      < 0.1% (11th)  < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15                                                deb             CVE-2026-6019        Medium      < 0.1% (11th)  < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15                                                deb             CVE-2026-6019        Medium      < 0.1% (11th)  < 0.1         
+python3.10                   3.10.12-1~22.04.15                                                deb             CVE-2026-6019        Medium      < 0.1% (11th)  < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15                                                deb             CVE-2026-6019        Medium      < 0.1% (11th)  < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15            (won't fix)                         deb             CVE-2020-10735       Negligible  0.4% (59th)    < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15            (won't fix)                         deb             CVE-2020-10735       Negligible  0.4% (59th)    < 0.1         
+python3.10                   3.10.12-1~22.04.15            (won't fix)                         deb             CVE-2020-10735       Negligible  0.4% (59th)    < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15            (won't fix)                         deb             CVE-2020-10735       Negligible  0.4% (59th)    < 0.1         
+pyopenssl                    24.2.1                        26.0.0                              python          GHSA-5pwr-322w-8jr4  High        < 0.1% (7th)   < 0.1         
+node                         22.21.1                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21717       Medium      < 0.1% (10th)  < 0.1         
+node                         22.22.0                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21717       Medium      < 0.1% (10th)  < 0.1         
+node                         22.22.1                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21717       Medium      < 0.1% (10th)  < 0.1         
+stdlib                       go1.19.2                      *1.24.8, 1.25.2                     go-module       CVE-2025-58186       Medium      < 0.1% (11th)  < 0.1         
+libpng-dev                   1.6.37-3ubuntu0.4                                                 deb             CVE-2026-33416       Medium      < 0.1% (10th)  < 0.1         
+libpng16-16                  1.6.37-3ubuntu0.4                                                 deb             CVE-2026-33416       Medium      < 0.1% (10th)  < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15                                                deb             CVE-2026-4224        Medium      < 0.1% (10th)  < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15                                                deb             CVE-2026-4224        Medium      < 0.1% (10th)  < 0.1         
+python3.10                   3.10.12-1~22.04.15                                                deb             CVE-2026-4224        Medium      < 0.1% (10th)  < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15                                                deb             CVE-2026-4224        Medium      < 0.1% (10th)  < 0.1         
+stdlib                       go1.19.2                      *1.24.11, 1.25.5                    go-module       CVE-2025-61729       High        < 0.1% (6th)   < 0.1         
+stdlib                       go1.19.2                      *1.23.12, 1.24.6                    go-module       CVE-2025-47906       Medium      < 0.1% (8th)   < 0.1         
+stdlib                       go1.19.2                      *1.25.9, 1.26.2                     go-module       CVE-2026-27143       Critical    < 0.1% (4th)   < 0.1         
+libc-bin                     2.35-0ubuntu3.13                                                  deb             CVE-2026-4438        Medium      < 0.1% (9th)   < 0.1         
+libc-dev-bin                 2.35-0ubuntu3.13                                                  deb             CVE-2026-4438        Medium      < 0.1% (9th)   < 0.1         
+libc6                        2.35-0ubuntu3.13                                                  deb             CVE-2026-4438        Medium      < 0.1% (9th)   < 0.1         
+libc6-dev                    2.35-0ubuntu3.13                                                  deb             CVE-2026-4438        Medium      < 0.1% (9th)   < 0.1         
+locales                      2.35-0ubuntu3.13                                                  deb             CVE-2026-4438        Medium      < 0.1% (9th)   < 0.1         
+vim-common                   2:8.2.3995-1ubuntu2.28        (won't fix)                         deb             CVE-2025-53906       Medium      < 0.1% (9th)   < 0.1         
+vim-tiny                     2:8.2.3995-1ubuntu2.28        (won't fix)                         deb             CVE-2025-53906       Medium      < 0.1% (9th)   < 0.1         
+xxd                          2:8.2.3995-1ubuntu2.28        (won't fix)                         deb             CVE-2025-53906       Medium      < 0.1% (9th)   < 0.1         
+python3-pip                  22.0.2+dfsg-1ubuntu0.7                                            deb             CVE-2025-66418       Medium      < 0.1% (9th)   < 0.1         
+liblzma-dev                  5.2.5-2ubuntu1                                                    deb             CVE-2026-34743       Low         < 0.1% (17th)  < 0.1         
+liblzma5                     5.2.5-2ubuntu1                                                    deb             CVE-2026-34743       Low         < 0.1% (17th)  < 0.1         
+xz-utils                     5.2.5-2ubuntu1                                                    deb             CVE-2026-34743       Low         < 0.1% (17th)  < 0.1         
+tar                          1.34+dfsg-1ubuntu0.1.22.04.2                                      deb             CVE-2026-5704        Medium      < 0.1% (9th)   < 0.1         
+stdlib                       go1.19.2                      *1.24.8, 1.25.2                     go-module       CVE-2025-58185       Medium      < 0.1% (8th)   < 0.1         
+stdlib                       go1.19.2                      *1.24.13, 1.25.7, 1.26.0-rc.3       go-module       CVE-2025-68121       Critical    < 0.1% (4th)   < 0.1         
+rsync                        3.2.7-0ubuntu0.22.04.4                                            deb             CVE-2025-10158       Low         < 0.1% (16th)  < 0.1         
+python3-pip                  22.0.2+dfsg-1ubuntu0.7        (won't fix)                         deb             CVE-2025-66471       Medium      < 0.1% (8th)   < 0.1         
+libc-bin                     2.35-0ubuntu3.13              (won't fix)                         deb             CVE-2016-20013       Negligible  0.3% (53rd)    < 0.1         
+libc-dev-bin                 2.35-0ubuntu3.13              (won't fix)                         deb             CVE-2016-20013       Negligible  0.3% (53rd)    < 0.1         
+libc6                        2.35-0ubuntu3.13              (won't fix)                         deb             CVE-2016-20013       Negligible  0.3% (53rd)    < 0.1         
+libc6-dev                    2.35-0ubuntu3.13              (won't fix)                         deb             CVE-2016-20013       Negligible  0.3% (53rd)    < 0.1         
+locales                      2.35-0ubuntu3.13              (won't fix)                         deb             CVE-2016-20013       Negligible  0.3% (53rd)    < 0.1         
+libncurses-dev               6.3-2ubuntu0.1                                                    deb             CVE-2023-50495       Low         < 0.1% (15th)  < 0.1         
+libncurses5-dev              6.3-2ubuntu0.1                                                    deb             CVE-2023-50495       Low         < 0.1% (15th)  < 0.1         
+libncurses6                  6.3-2ubuntu0.1                                                    deb             CVE-2023-50495       Low         < 0.1% (15th)  < 0.1         
+libncursesw6                 6.3-2ubuntu0.1                                                    deb             CVE-2023-50495       Low         < 0.1% (15th)  < 0.1         
+libtinfo6                    6.3-2ubuntu0.1                                                    deb             CVE-2023-50495       Low         < 0.1% (15th)  < 0.1         
+ncurses-base                 6.3-2ubuntu0.1                                                    deb             CVE-2023-50495       Low         < 0.1% (15th)  < 0.1         
+ncurses-bin                  6.3-2ubuntu0.1                                                    deb             CVE-2023-50495       Low         < 0.1% (15th)  < 0.1         
+stdlib                       go1.19.2                      1.19.6                              go-module       CVE-2022-41724       High        < 0.1% (5th)   < 0.1         
+python3-pip                  22.0.2+dfsg-1ubuntu0.7                                            deb             CVE-2026-21441       Medium      < 0.1% (8th)   < 0.1         
+libexpat1                    2.4.7-1ubuntu0.7                                                  deb             CVE-2026-41080       Medium      < 0.1% (8th)   < 0.1         
+libexpat1-dev                2.4.7-1ubuntu0.7                                                  deb             CVE-2026-41080       Medium      < 0.1% (8th)   < 0.1         
+openssh-client               1:8.9p1-3ubuntu0.14                                               deb             CVE-2026-35387       Medium      < 0.1% (8th)   < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+cpp-11                       11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+g++-11                       11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+gcc-11                       11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+gcc-11-base                  11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+gcc-12-base                  12.3.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+libasan6                     11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+libatomic1                   12.3.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+libcc1-0                     12.3.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+libgcc-11-dev                11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+libgcc-s1                    12.3.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+libgomp1                     12.3.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+libitm1                      12.3.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+liblsan0                     12.3.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+libquadmath0                 12.3.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+libstdc++-11-dev             11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+libstdc++6                   12.3.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+libtsan0                     11.4.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+libubsan1                    12.3.0-1ubuntu1~22.04.3                                           deb             CVE-2022-27943       Low         < 0.1% (15th)  < 0.1         
+node                         22.21.1                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21713       Medium      < 0.1% (7th)   < 0.1         
+node                         22.22.0                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21713       Medium      < 0.1% (7th)   < 0.1         
+node                         22.22.1                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21713       Medium      < 0.1% (7th)   < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2025-66864       Low         < 0.1% (15th)  < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2025-66864       Low         < 0.1% (15th)  < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2025-66864       Low         < 0.1% (15th)  < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2025-66864       Low         < 0.1% (15th)  < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2025-66864       Low         < 0.1% (15th)  < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2025-66864       Low         < 0.1% (15th)  < 0.1         
+libx11-6                     2:1.7.5-1ubuntu0.3            (won't fix)                         deb             CVE-2020-25697       Low         < 0.1% (14th)  < 0.1         
+libx11-data                  2:1.7.5-1ubuntu0.3            (won't fix)                         deb             CVE-2020-25697       Low         < 0.1% (14th)  < 0.1         
+libx11-dev                   2:1.7.5-1ubuntu0.3            (won't fix)                         deb             CVE-2020-25697       Low         < 0.1% (14th)  < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2025-1150        Low         < 0.1% (14th)  < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2025-1151        Low         < 0.1% (14th)  < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2025-1152        Low         < 0.1% (14th)  < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2025-1150        Low         < 0.1% (14th)  < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2025-1151        Low         < 0.1% (14th)  < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2025-1152        Low         < 0.1% (14th)  < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2025-1150        Low         < 0.1% (14th)  < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2025-1151        Low         < 0.1% (14th)  < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2025-1152        Low         < 0.1% (14th)  < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2025-1150        Low         < 0.1% (14th)  < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2025-1151        Low         < 0.1% (14th)  < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2025-1152        Low         < 0.1% (14th)  < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2025-1150        Low         < 0.1% (14th)  < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2025-1151        Low         < 0.1% (14th)  < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2025-1152        Low         < 0.1% (14th)  < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2025-1150        Low         < 0.1% (14th)  < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2025-1151        Low         < 0.1% (14th)  < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2025-1152        Low         < 0.1% (14th)  < 0.1         
+vim-common                   2:8.2.3995-1ubuntu2.28        (won't fix)                         deb             CVE-2025-53905       Medium      < 0.1% (7th)   < 0.1         
+vim-tiny                     2:8.2.3995-1ubuntu2.28        (won't fix)                         deb             CVE-2025-53905       Medium      < 0.1% (7th)   < 0.1         
+xxd                          2:8.2.3995-1ubuntu2.28        (won't fix)                         deb             CVE-2025-53905       Medium      < 0.1% (7th)   < 0.1         
+libpcre2-16-0                10.39-3ubuntu0.1                                                  deb             CVE-2022-41409       Low         < 0.1% (14th)  < 0.1         
+libpcre2-32-0                10.39-3ubuntu0.1                                                  deb             CVE-2022-41409       Low         < 0.1% (14th)  < 0.1         
+libpcre2-8-0                 10.39-3ubuntu0.1                                                  deb             CVE-2022-41409       Low         < 0.1% (14th)  < 0.1         
+libpcre2-dev                 10.39-3ubuntu0.1                                                  deb             CVE-2022-41409       Low         < 0.1% (14th)  < 0.1         
+libpcre2-posix3              10.39-3ubuntu0.1                                                  deb             CVE-2022-41409       Low         < 0.1% (14th)  < 0.1         
+stdlib                       go1.19.2                      *1.24.9, 1.25.3                     go-module       CVE-2025-58187       High        < 0.1% (4th)   < 0.1         
+stdlib                       go1.19.2                      *1.25.9, 1.26.2                     go-module       CVE-2026-32281       High        < 0.1% (4th)   < 0.1         
+stdlib                       go1.19.2                      *1.19.7, 1.20.2                     go-module       CVE-2023-24532       Medium      < 0.1% (7th)   < 0.1         
+binutils                     2.38-4ubuntu2.12              (won't fix)                         deb             CVE-2025-11495       Medium      < 0.1% (7th)   < 0.1         
+binutils-common              2.38-4ubuntu2.12              (won't fix)                         deb             CVE-2025-11495       Medium      < 0.1% (7th)   < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12              (won't fix)                         deb             CVE-2025-11495       Medium      < 0.1% (7th)   < 0.1         
+libbinutils                  2.38-4ubuntu2.12              (won't fix)                         deb             CVE-2025-11495       Medium      < 0.1% (7th)   < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12              (won't fix)                         deb             CVE-2025-11495       Medium      < 0.1% (7th)   < 0.1         
+libctf0                      2.38-4ubuntu2.12              (won't fix)                         deb             CVE-2025-11495       Medium      < 0.1% (7th)   < 0.1         
+python3-pip                  22.0.2+dfsg-1ubuntu0.7                                            deb             CVE-2026-1703        Medium      < 0.1% (7th)   < 0.1         
+vim-common                   2:8.2.3995-1ubuntu2.28                                            deb             CVE-2026-39881       Medium      < 0.1% (7th)   < 0.1         
+vim-tiny                     2:8.2.3995-1ubuntu2.28                                            deb             CVE-2026-39881       Medium      < 0.1% (7th)   < 0.1         
+xxd                          2:8.2.3995-1ubuntu2.28                                            deb             CVE-2026-39881       Medium      < 0.1% (7th)   < 0.1         
+node                         22.21.1                       20.20.0, *22.22.0, 24.13.0, 25.3.0  UnknownPackage  CVE-2025-55130       Critical    < 0.1% (3rd)   < 0.1         
+stdlib                       go1.19.2                      *1.25.9, 1.26.2                     go-module       CVE-2026-32280       High        < 0.1% (4th)   < 0.1         
+stdlib                       go1.19.2                      *1.25.9, 1.26.2                     go-module       CVE-2026-32283       High        < 0.1% (4th)   < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15                                                deb             CVE-2026-3446        Medium      < 0.1% (7th)   < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15                                                deb             CVE-2026-3446        Medium      < 0.1% (7th)   < 0.1         
+python3.10                   3.10.12-1~22.04.15                                                deb             CVE-2026-3446        Medium      < 0.1% (7th)   < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15                                                deb             CVE-2026-3446        Medium      < 0.1% (7th)   < 0.1         
+stdlib                       go1.19.2                      *1.23.12, 1.24.6                    go-module       CVE-2025-47907       High        < 0.1% (4th)   < 0.1         
+stdlib                       go1.19.2                      *1.19.8, 1.20.3                     go-module       CVE-2023-24537       High        < 0.1% (3rd)   < 0.1         
+libnghttp2-14                1.43.0-1ubuntu0.2                                                 deb             CVE-2026-27135       Medium      < 0.1% (6th)   < 0.1         
+dpkg                         1.21.1ubuntu2.6                                                   deb             CVE-2026-2219        Medium      < 0.1% (6th)   < 0.1         
+dpkg-dev                     1.21.1ubuntu2.6                                                   deb             CVE-2026-2219        Medium      < 0.1% (6th)   < 0.1         
+libdpkg-perl                 1.21.1ubuntu2.6                                                   deb             CVE-2026-2219        Medium      < 0.1% (6th)   < 0.1         
+stdlib                       go1.19.2                      *1.25.9, 1.26.2                     go-module       CVE-2026-27140       High        < 0.1% (2nd)   < 0.1         
+stdlib                       go1.19.2                      *1.24.8, 1.25.2                     go-module       CVE-2025-47912       Medium      < 0.1% (6th)   < 0.1         
+jq                           1.6-2.1ubuntu3.2                                                  deb             CVE-2026-40164       Medium      < 0.1% (6th)   < 0.1         
+libjq1                       1.6-2.1ubuntu3.2                                                  deb             CVE-2026-40164       Medium      < 0.1% (6th)   < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2025-69652       Medium      < 0.1% (6th)   < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2025-69652       Medium      < 0.1% (6th)   < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2025-69652       Medium      < 0.1% (6th)   < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2025-69652       Medium      < 0.1% (6th)   < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2025-69652       Medium      < 0.1% (6th)   < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2025-69652       Medium      < 0.1% (6th)   < 0.1         
+stdlib                       go1.19.2                      *1.24.12, 1.25.6                    go-module       CVE-2025-61728       Medium      < 0.1% (5th)   < 0.1         
+stdlib                       go1.19.2                      *1.24.8, 1.25.2                     go-module       CVE-2025-61724       Medium      < 0.1% (5th)   < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15                                                deb             CVE-2026-4786        Medium      < 0.1% (5th)   < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15                                                deb             CVE-2026-4786        Medium      < 0.1% (5th)   < 0.1         
+python3.10                   3.10.12-1~22.04.15                                                deb             CVE-2026-4786        Medium      < 0.1% (5th)   < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15                                                deb             CVE-2026-4786        Medium      < 0.1% (5th)   < 0.1         
+openssh-client               1:8.9p1-3ubuntu0.14                                               deb             CVE-2026-35414       Medium      < 0.1% (5th)   < 0.1         
+libsystemd0                  249.11-0ubuntu3.20                                                deb             CVE-2026-40227       Medium      < 0.1% (5th)   < 0.1         
+libudev1                     249.11-0ubuntu3.20                                                deb             CVE-2026-40227       Medium      < 0.1% (5th)   < 0.1         
+stdlib                       go1.19.2                      *1.22.12, 1.23.6, 1.24.0-rc.3       go-module       CVE-2025-22866       Medium      < 0.1% (6th)   < 0.1         
+icu-devtools                 70.1-2                                                            deb             CVE-2025-5222        Low         < 0.1% (9th)   < 0.1         
+libicu-dev                   70.1-2                                                            deb             CVE-2025-5222        Low         < 0.1% (9th)   < 0.1         
+libicu70                     70.1-2                                                            deb             CVE-2025-5222        Low         < 0.1% (9th)   < 0.1         
+patch                        2.7.6-7build2                                                     deb             CVE-2021-45261       Negligible  0.2% (41st)    < 0.1         
+pyopenssl                    24.2.1                        26.0.0                              python          GHSA-vp96-hxj8-p424  Low         < 0.1% (12th)  < 0.1         
+rsync                        3.2.7-0ubuntu0.22.04.4                                            deb             CVE-2026-41035       Low         < 0.1% (9th)   < 0.1         
+wheel                        0.45.1                        0.46.2                              python          GHSA-8rrh-rw8j-w5fx  High        < 0.1% (1st)   < 0.1         
+login                        1:4.8.1-2ubuntu2.2                                                deb             CVE-2023-29383       Low         < 0.1% (8th)   < 0.1         
+passwd                       1:4.8.1-2ubuntu2.2                                                deb             CVE-2023-29383       Low         < 0.1% (8th)   < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15            (won't fix)                         deb             CVE-2025-12781       Medium      < 0.1% (4th)   < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15            (won't fix)                         deb             CVE-2025-12781       Medium      < 0.1% (4th)   < 0.1         
+python3.10                   3.10.12-1~22.04.15            (won't fix)                         deb             CVE-2025-12781       Medium      < 0.1% (4th)   < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15            (won't fix)                         deb             CVE-2025-12781       Medium      < 0.1% (4th)   < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15                                                deb             CVE-2026-2297        Medium      < 0.1% (4th)   < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15                                                deb             CVE-2026-2297        Medium      < 0.1% (4th)   < 0.1         
+python3.10                   3.10.12-1~22.04.15                                                deb             CVE-2026-2297        Medium      < 0.1% (4th)   < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15                                                deb             CVE-2026-2297        Medium      < 0.1% (4th)   < 0.1         
+libxslt1-dev                 1.1.34-4ubuntu0.22.04.5                                           deb             CVE-2025-10911       Medium      < 0.1% (4th)   < 0.1         
+libxslt1.1                   1.1.34-4ubuntu0.22.04.5                                           deb             CVE-2025-10911       Medium      < 0.1% (4th)   < 0.1         
+github.com/docker/docker     v28.5.2+incompatible                                              go-module       GHSA-pxq6-2prw-chj9  Medium      < 0.1% (3rd)   < 0.1         
+python3-pip                  22.0.2+dfsg-1ubuntu0.7                                            deb             CVE-2026-3219        Medium      < 0.1% (4th)   < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15                                                deb             CVE-2026-5713        Medium      < 0.1% (4th)   < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15                                                deb             CVE-2026-5713        Medium      < 0.1% (4th)   < 0.1         
+python3.10                   3.10.12-1~22.04.15                                                deb             CVE-2026-5713        Medium      < 0.1% (4th)   < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15                                                deb             CVE-2026-5713        Medium      < 0.1% (4th)   < 0.1         
+node                         22.21.1                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21714       Medium      < 0.1% (3rd)   < 0.1         
+node                         22.22.0                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21714       Medium      < 0.1% (3rd)   < 0.1         
+node                         22.22.1                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21714       Medium      < 0.1% (3rd)   < 0.1         
+stdlib                       go1.19.2                      *1.24.8, 1.25.2                     go-module       CVE-2025-58189       Medium      < 0.1% (3rd)   < 0.1         
+libpng-dev                   1.6.37-3ubuntu0.4                                                 deb             CVE-2026-34757       Medium      < 0.1% (3rd)   < 0.1         
+libpng16-16                  1.6.37-3ubuntu0.4                                                 deb             CVE-2026-34757       Medium      < 0.1% (3rd)   < 0.1         
+stdlib                       go1.19.2                      *1.24.8, 1.25.2                     go-module       CVE-2025-58183       Medium      < 0.1% (4th)   < 0.1         
+stdlib                       go1.19.2                      *1.24.12, 1.25.6                    go-module       CVE-2025-61731       High        < 0.1% (1st)   < 0.1         
+stdlib                       go1.19.2                      *1.19.10, 1.20.5                    go-module       CVE-2023-29403       High        < 0.1% (1st)   < 0.1         
+libxml2                      2.9.13+dfsg-1ubuntu0.11                                           deb             CVE-2026-6732        Medium      < 0.1% (3rd)   < 0.1         
+libxml2-dev                  2.9.13+dfsg-1ubuntu0.11                                           deb             CVE-2026-6732        Medium      < 0.1% (3rd)   < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15                                                deb             CVE-2026-3479        Medium      < 0.1% (3rd)   < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15                                                deb             CVE-2026-3479        Medium      < 0.1% (3rd)   < 0.1         
+python3.10                   3.10.12-1~22.04.15                                                deb             CVE-2026-3479        Medium      < 0.1% (3rd)   < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15                                                deb             CVE-2026-3479        Medium      < 0.1% (3rd)   < 0.1         
+vim-common                   2:8.2.3995-1ubuntu2.28        (won't fix)                         deb             CVE-2026-35177       Medium      < 0.1% (3rd)   < 0.1         
+vim-tiny                     2:8.2.3995-1ubuntu2.28        (won't fix)                         deb             CVE-2026-35177       Medium      < 0.1% (3rd)   < 0.1         
+xxd                          2:8.2.3995-1ubuntu2.28        (won't fix)                         deb             CVE-2026-35177       Medium      < 0.1% (3rd)   < 0.1         
+bsdextrautils                2.37.2-4ubuntu3.5                                                 deb             CVE-2026-27456       Medium      < 0.1% (3rd)   < 0.1         
+bsdutils                     1:2.37.2-4ubuntu3.5                                               deb             CVE-2026-27456       Medium      < 0.1% (3rd)   < 0.1         
+libblkid1                    2.37.2-4ubuntu3.5                                                 deb             CVE-2026-27456       Medium      < 0.1% (3rd)   < 0.1         
+libmount1                    2.37.2-4ubuntu3.5                                                 deb             CVE-2026-27456       Medium      < 0.1% (3rd)   < 0.1         
+libsmartcols1                2.37.2-4ubuntu3.5                                                 deb             CVE-2026-27456       Medium      < 0.1% (3rd)   < 0.1         
+libuuid1                     2.37.2-4ubuntu3.5                                                 deb             CVE-2026-27456       Medium      < 0.1% (3rd)   < 0.1         
+mount                        2.37.2-4ubuntu3.5                                                 deb             CVE-2026-27456       Medium      < 0.1% (3rd)   < 0.1         
+util-linux                   2.37.2-4ubuntu3.5                                                 deb             CVE-2026-27456       Medium      < 0.1% (3rd)   < 0.1         
+uuid-dev                     2.37.2-4ubuntu3.5                                                 deb             CVE-2026-27456       Medium      < 0.1% (3rd)   < 0.1         
+cryptography                 43.0.3                        46.0.5                              python          GHSA-r6ph-v2qm-q3c2  High        < 0.1% (0th)   < 0.1         
+libsystemd0                  249.11-0ubuntu3.20                                                deb             CVE-2026-40223       Medium      < 0.1% (2nd)   < 0.1         
+libudev1                     249.11-0ubuntu3.20                                                deb             CVE-2026-40223       Medium      < 0.1% (2nd)   < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15                                                deb             CVE-2025-13462       Medium      < 0.1% (2nd)   < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15                                                deb             CVE-2025-13462       Medium      < 0.1% (2nd)   < 0.1         
+python3.10                   3.10.12-1~22.04.15                                                deb             CVE-2025-13462       Medium      < 0.1% (2nd)   < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15                                                deb             CVE-2025-13462       Medium      < 0.1% (2nd)   < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2026-6846        Medium      < 0.1% (2nd)   < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2026-6846        Medium      < 0.1% (2nd)   < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2026-6846        Medium      < 0.1% (2nd)   < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2026-6846        Medium      < 0.1% (2nd)   < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2026-6846        Medium      < 0.1% (2nd)   < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2026-6846        Medium      < 0.1% (2nd)   < 0.1         
+libsystemd0                  249.11-0ubuntu3.20                                                deb             CVE-2026-40228       Medium      < 0.1% (2nd)   < 0.1         
+libudev1                     249.11-0ubuntu3.20                                                deb             CVE-2026-40228       Medium      < 0.1% (2nd)   < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2025-66861       Low         < 0.1% (6th)   < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2025-66861       Low         < 0.1% (6th)   < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2025-66861       Low         < 0.1% (6th)   < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2025-66861       Low         < 0.1% (6th)   < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2025-66861       Low         < 0.1% (6th)   < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2025-66861       Low         < 0.1% (6th)   < 0.1         
+stdlib                       go1.19.2                      *1.24.8, 1.25.2                     go-module       CVE-2025-58188       High        < 0.1% (0th)   < 0.1         
+github.com/docker/docker     v28.5.2+incompatible                                              go-module       GHSA-x744-4wpc-v9h2  High        < 0.1% (0th)   < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2026-6844        Medium      < 0.1% (2nd)   < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2026-6844        Medium      < 0.1% (2nd)   < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2026-6844        Medium      < 0.1% (2nd)   < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2026-6844        Medium      < 0.1% (2nd)   < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2026-6844        Medium      < 0.1% (2nd)   < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2026-6844        Medium      < 0.1% (2nd)   < 0.1         
+nano                         6.2-1ubuntu0.1                                                    deb             CVE-2026-6843        Medium      < 0.1% (2nd)   < 0.1         
+jq                           1.6-2.1ubuntu3.2                                                  deb             CVE-2026-39956       Medium      < 0.1% (2nd)   < 0.1         
+libjq1                       1.6-2.1ubuntu3.2                                                  deb             CVE-2026-39956       Medium      < 0.1% (2nd)   < 0.1         
+python3-pip                  22.0.2+dfsg-1ubuntu0.7                                            deb             CVE-2026-24049       Medium      < 0.1% (1st)   < 0.1         
+stdlib                       go1.19.2                      *1.24.11, 1.25.5                    go-module       CVE-2025-61727       Medium      < 0.1% (1st)   < 0.1         
+stdlib                       go1.19.2                      *1.25.8, 1.26.1                     go-module       CVE-2026-27142       Medium      < 0.1% (1st)   < 0.1         
+libsystemd0                  249.11-0ubuntu3.20                                                deb             CVE-2026-40224       Medium      < 0.1% (1st)   < 0.1         
+libudev1                     249.11-0ubuntu3.20                                                deb             CVE-2026-40224       Medium      < 0.1% (1st)   < 0.1         
+libgcrypt20                  1.9.4-3ubuntu3                                                    deb             CVE-2026-41990       Medium      < 0.1% (1st)   < 0.1         
+libgcrypt20-dev              1.9.4-3ubuntu3                                                    deb             CVE-2026-41990       Medium      < 0.1% (1st)   < 0.1         
+openssh-client               1:8.9p1-3ubuntu0.14                                               deb             CVE-2026-35388       Medium      < 0.1% (1st)   < 0.1         
+libgcrypt20                  1.9.4-3ubuntu3                                                    deb             CVE-2026-41989       Medium      < 0.1% (1st)   < 0.1         
+libgcrypt20-dev              1.9.4-3ubuntu3                                                    deb             CVE-2026-41989       Medium      < 0.1% (1st)   < 0.1         
+patch                        2.7.6-7build2                                                     deb             CVE-2019-20633       Negligible  0.1% (29th)    < 0.1         
+stdlib                       go1.19.2                      *1.24.13, 1.25.7                    go-module       CVE-2025-61732       High        < 0.1% (0th)   < 0.1         
+stdlib                       go1.19.2                      *1.23.11, 1.24.5                    go-module       CVE-2025-4674        High        < 0.1% (0th)   < 0.1         
+python3-pip                  22.0.2+dfsg-1ubuntu0.7        (won't fix)                         deb             CVE-2023-37920       Negligible  0.1% (29th)    < 0.1         
+libpcre3                     2:8.39-13ubuntu0.22.04.1                                          deb             CVE-2017-11164       Negligible  0.1% (29th)    < 0.1         
+stdlib                       go1.19.2                      *1.25.9, 1.26.2                     go-module       CVE-2026-32289       Medium      < 0.1% (1st)   < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2025-66866       Low         < 0.1% (3rd)   < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2025-66866       Low         < 0.1% (3rd)   < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2025-66866       Low         < 0.1% (3rd)   < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2025-66866       Low         < 0.1% (3rd)   < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2025-66866       Low         < 0.1% (3rd)   < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2025-66866       Low         < 0.1% (3rd)   < 0.1         
+stdlib                       go1.19.2                      *1.24.12, 1.25.6                    go-module       CVE-2025-61730       Medium      < 0.1% (0th)   < 0.1         
+stdlib                       go1.19.2                      *1.25.9, 1.26.2                     go-module       CVE-2026-32282       Medium      < 0.1% (0th)   < 0.1         
+node                         22.21.1                       20.20.0, *22.22.0, 24.13.0, 25.3.0  UnknownPackage  CVE-2025-55132       Medium      < 0.1% (1st)   < 0.1         
+nano                         6.2-1ubuntu0.1                                                    deb             CVE-2026-6842        Medium      < 0.1% (1st)   < 0.1         
+libsystemd0                  249.11-0ubuntu3.20                                                deb             CVE-2026-40226       Medium      < 0.1% (0th)   < 0.1         
+libudev1                     249.11-0ubuntu3.20                                                deb             CVE-2026-40226       Medium      < 0.1% (0th)   < 0.1         
+dirmngr                      2.2.27-3ubuntu2.5             (won't fix)                         deb             CVE-2022-3219        Low         < 0.1% (3rd)   < 0.1         
+gnupg                        2.2.27-3ubuntu2.5             (won't fix)                         deb             CVE-2022-3219        Low         < 0.1% (3rd)   < 0.1         
+gnupg-l10n                   2.2.27-3ubuntu2.5             (won't fix)                         deb             CVE-2022-3219        Low         < 0.1% (3rd)   < 0.1         
+gnupg-utils                  2.2.27-3ubuntu2.5             (won't fix)                         deb             CVE-2022-3219        Low         < 0.1% (3rd)   < 0.1         
+gnupg2                       2.2.27-3ubuntu2.5             (won't fix)                         deb             CVE-2022-3219        Low         < 0.1% (3rd)   < 0.1         
+gpg                          2.2.27-3ubuntu2.5             (won't fix)                         deb             CVE-2022-3219        Low         < 0.1% (3rd)   < 0.1         
+gpg-agent                    2.2.27-3ubuntu2.5             (won't fix)                         deb             CVE-2022-3219        Low         < 0.1% (3rd)   < 0.1         
+gpg-wks-client               2.2.27-3ubuntu2.5             (won't fix)                         deb             CVE-2022-3219        Low         < 0.1% (3rd)   < 0.1         
+gpg-wks-server               2.2.27-3ubuntu2.5             (won't fix)                         deb             CVE-2022-3219        Low         < 0.1% (3rd)   < 0.1         
+gpgconf                      2.2.27-3ubuntu2.5             (won't fix)                         deb             CVE-2022-3219        Low         < 0.1% (3rd)   < 0.1         
+gpgsm                        2.2.27-3ubuntu2.5             (won't fix)                         deb             CVE-2022-3219        Low         < 0.1% (3rd)   < 0.1         
+gpgv                         2.2.27-3ubuntu2.5             (won't fix)                         deb             CVE-2022-3219        Low         < 0.1% (3rd)   < 0.1         
+stdlib                       go1.19.2                      *1.25.9, 1.26.2                     go-module       CVE-2026-27144       High        < 0.1% (0th)   < 0.1         
+libbpf0                      1:0.5.0-1ubuntu22.04.1                                            deb             CVE-2025-29481       Negligible  < 0.1% (24th)  < 0.1         
+libpython3.10-minimal        3.10.12-1~22.04.15                                                deb             CVE-2026-4519        Medium      < 0.1% (0th)   < 0.1         
+libpython3.10-stdlib         3.10.12-1~22.04.15                                                deb             CVE-2026-4519        Medium      < 0.1% (0th)   < 0.1         
+python3.10                   3.10.12-1~22.04.15                                                deb             CVE-2026-4519        Medium      < 0.1% (0th)   < 0.1         
+python3.10-minimal           3.10.12-1~22.04.15                                                deb             CVE-2026-4519        Medium      < 0.1% (0th)   < 0.1         
+libexpat1                    2.4.7-1ubuntu0.7                                                  deb             CVE-2025-66382       Medium      < 0.1% (0th)   < 0.1         
+libexpat1-dev                2.4.7-1ubuntu0.7                                                  deb             CVE-2025-66382       Medium      < 0.1% (0th)   < 0.1         
+openssh-client               1:8.9p1-3ubuntu0.14                                               deb             CVE-2026-35386       Medium      < 0.1% (0th)   < 0.1         
+libperl5.34                  5.34.0-3ubuntu1.5             (won't fix)                         deb             CVE-2023-47039       Negligible  < 0.1% (23rd)  < 0.1         
+perl                         5.34.0-3ubuntu1.5             (won't fix)                         deb             CVE-2023-47039       Negligible  < 0.1% (23rd)  < 0.1         
+perl-base                    5.34.0-3ubuntu1.5             (won't fix)                         deb             CVE-2023-47039       Negligible  < 0.1% (23rd)  < 0.1         
+perl-modules-5.34            5.34.0-3ubuntu1.5             (won't fix)                         deb             CVE-2023-47039       Negligible  < 0.1% (23rd)  < 0.1         
+stdlib                       go1.19.2                      *1.21.11, 1.22.4                    go-module       CVE-2024-24789       Medium      < 0.1% (0th)   < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2025-69651       Medium      < 0.1% (0th)   < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2025-69651       Medium      < 0.1% (0th)   < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2025-69651       Medium      < 0.1% (0th)   < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2025-69651       Medium      < 0.1% (0th)   < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2025-69651       Medium      < 0.1% (0th)   < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2025-69651       Medium      < 0.1% (0th)   < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2025-69645       Medium      < 0.1% (0th)   < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2025-69645       Medium      < 0.1% (0th)   < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2025-69645       Medium      < 0.1% (0th)   < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2025-69645       Medium      < 0.1% (0th)   < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2025-69645       Medium      < 0.1% (0th)   < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2025-69645       Medium      < 0.1% (0th)   < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2026-3441        Medium      < 0.1% (0th)   < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2026-3442        Medium      < 0.1% (0th)   < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2026-3441        Medium      < 0.1% (0th)   < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2026-3442        Medium      < 0.1% (0th)   < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2026-3441        Medium      < 0.1% (0th)   < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2026-3442        Medium      < 0.1% (0th)   < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2026-3441        Medium      < 0.1% (0th)   < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2026-3442        Medium      < 0.1% (0th)   < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2026-3441        Medium      < 0.1% (0th)   < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2026-3442        Medium      < 0.1% (0th)   < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2026-3441        Medium      < 0.1% (0th)   < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2026-3442        Medium      < 0.1% (0th)   < 0.1         
+sed                          4.8-1ubuntu2                                                      deb             CVE-2026-5958        Medium      < 0.1% (0th)   < 0.1         
+libelf1                      0.186-1ubuntu0.1                                                  deb             CVE-2025-1376        Low         < 0.1% (1st)   < 0.1         
+cryptography                 43.0.3                        46.0.6                              python          GHSA-m959-cc7f-wv43  Low         < 0.1% (0th)   < 0.1         
+libexpat1                    2.4.7-1ubuntu0.7                                                  deb             CVE-2026-32776       Medium      < 0.1% (0th)   < 0.1         
+libexpat1                    2.4.7-1ubuntu0.7                                                  deb             CVE-2026-32778       Medium      < 0.1% (0th)   < 0.1         
+libexpat1-dev                2.4.7-1ubuntu0.7                                                  deb             CVE-2026-32776       Medium      < 0.1% (0th)   < 0.1         
+libexpat1-dev                2.4.7-1ubuntu0.7                                                  deb             CVE-2026-32778       Medium      < 0.1% (0th)   < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2026-6845        Medium      < 0.1% (0th)   < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2026-6845        Medium      < 0.1% (0th)   < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2026-6845        Medium      < 0.1% (0th)   < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2026-6845        Medium      < 0.1% (0th)   < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2026-6845        Medium      < 0.1% (0th)   < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2026-6845        Medium      < 0.1% (0th)   < 0.1         
+libexpat1                    2.4.7-1ubuntu0.7                                                  deb             CVE-2026-32777       Medium      < 0.1% (0th)   < 0.1         
+libexpat1-dev                2.4.7-1ubuntu0.7                                                  deb             CVE-2026-32777       Medium      < 0.1% (0th)   < 0.1         
+jq                           1.6-2.1ubuntu3.2                                                  deb             CVE-2026-33947       Medium      < 0.1% (0th)   < 0.1         
+libjq1                       1.6-2.1ubuntu3.2                                                  deb             CVE-2026-33947       Medium      < 0.1% (0th)   < 0.1         
+libncurses-dev               6.3-2ubuntu0.1                                                    deb             CVE-2025-69720       Low         < 0.1% (0th)   < 0.1         
+libncurses5-dev              6.3-2ubuntu0.1                                                    deb             CVE-2025-69720       Low         < 0.1% (0th)   < 0.1         
+libncurses6                  6.3-2ubuntu0.1                                                    deb             CVE-2025-69720       Low         < 0.1% (0th)   < 0.1         
+libncursesw6                 6.3-2ubuntu0.1                                                    deb             CVE-2025-69720       Low         < 0.1% (0th)   < 0.1         
+libtinfo6                    6.3-2ubuntu0.1                                                    deb             CVE-2025-69720       Low         < 0.1% (0th)   < 0.1         
+ncurses-base                 6.3-2ubuntu0.1                                                    deb             CVE-2025-69720       Low         < 0.1% (0th)   < 0.1         
+ncurses-bin                  6.3-2ubuntu0.1                                                    deb             CVE-2025-69720       Low         < 0.1% (0th)   < 0.1         
+requests                     2.32.5                        2.33.0                              python          GHSA-gc5v-m9x4-r6x2  Medium      < 0.1% (0th)   < 0.1         
+stdlib                       go1.19.2                      *1.25.9, 1.26.2                     go-module       CVE-2026-32288       Medium      < 0.1% (0th)   < 0.1         
+zlib1g                       1:1.2.11.dfsg-2ubuntu9.2                                          deb             CVE-2026-27171       Low         < 0.1% (0th)   < 0.1         
+zlib1g-dev                   1:1.2.11.dfsg-2ubuntu9.2                                          deb             CVE-2026-27171       Low         < 0.1% (0th)   < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2026-4647        Medium      < 0.1% (0th)   < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2026-4647        Medium      < 0.1% (0th)   < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2026-4647        Medium      < 0.1% (0th)   < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2026-4647        Medium      < 0.1% (0th)   < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2026-4647        Medium      < 0.1% (0th)   < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2026-4647        Medium      < 0.1% (0th)   < 0.1         
+stdlib                       go1.19.2                      *1.25.8, 1.26.1                     go-module       CVE-2026-27139       Low         < 0.1% (0th)   < 0.1         
+node                         22.21.1                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21715       Low         < 0.1% (0th)   < 0.1         
+node                         22.22.0                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21715       Low         < 0.1% (0th)   < 0.1         
+node                         22.22.1                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21715       Low         < 0.1% (0th)   < 0.1         
+python3-pip                  22.0.2+dfsg-1ubuntu0.7                                            deb             CVE-2026-25645       Low         < 0.1% (0th)   < 0.1         
+jq                           1.6-2.1ubuntu3.2                                                  deb             CVE-2025-9403        Negligible  < 0.1% (7th)   < 0.1         
+libjq1                       1.6-2.1ubuntu3.2                                                  deb             CVE-2025-9403        Negligible  < 0.1% (7th)   < 0.1         
+node                         22.21.1                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21716       Low         < 0.1% (0th)   < 0.1         
+node                         22.22.0                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21716       Low         < 0.1% (0th)   < 0.1         
+node                         22.22.1                       20.20.2, *22.22.2, 24.14.1, 25.8.2  UnknownPackage  CVE-2026-21716       Low         < 0.1% (0th)   < 0.1         
+stdlib                       go1.19.2                      *1.23.9, 1.24.3                     go-module       CVE-2025-22873       Low         < 0.1% (0th)   < 0.1         
+binutils                     2.38-4ubuntu2.12                                                  deb             CVE-2022-48064       Negligible  < 0.1% (0th)   < 0.1         
+binutils-common              2.38-4ubuntu2.12                                                  deb             CVE-2022-48064       Negligible  < 0.1% (0th)   < 0.1         
+binutils-x86-64-linux-gnu    2.38-4ubuntu2.12                                                  deb             CVE-2022-48064       Negligible  < 0.1% (0th)   < 0.1         
+libbinutils                  2.38-4ubuntu2.12                                                  deb             CVE-2022-48064       Negligible  < 0.1% (0th)   < 0.1         
+libctf-nobfd0                2.38-4ubuntu2.12                                                  deb             CVE-2022-48064       Negligible  < 0.1% (0th)   < 0.1         
+libctf0                      2.38-4ubuntu2.12                                                  deb             CVE-2022-48064       Negligible  < 0.1% (0th)   < 0.1         
+vscode-github-actions        0.25.6                                                            npm             GHSA-wvmr-x489-hcpj  Critical    N/A            N/A           
+github.com/go-git/go-git/v5  v5.17.2                       5.18.0                              go-module       GHSA-3xc5-wrhm-f963  Medium      N/A            N/A           
+libc-bin                     2.35-0ubuntu3.13                                                  deb             CVE-2026-5358        Medium      N/A            N/A           
+libc-dev-bin                 2.35-0ubuntu3.13                                                  deb             CVE-2026-5358        Medium      N/A            N/A           
+libc6                        2.35-0ubuntu3.13                                                  deb             CVE-2026-5358        Medium      N/A            N/A           
+libc6-dev                    2.35-0ubuntu3.13                                                  deb             CVE-2026-5358        Medium      N/A            N/A           
+locales                      2.35-0ubuntu3.13                                                  deb             CVE-2026-5358        Medium      N/A            N/A
