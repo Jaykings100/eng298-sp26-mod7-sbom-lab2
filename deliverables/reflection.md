@@ -1,4 +1,4 @@
-f# Reflection: SBOM and System Patching
+# Reflection: SBOM and System Patching
 
 ## Overview
 
