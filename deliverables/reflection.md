@@ -1,4 +1,4 @@
-# Reflection: SBOM and System Patching
+f# Reflection: SBOM and System Patching
 
 ## Overview
 
@@ -8,9 +8,8 @@ This lab focused on analyzing a system-level SBOM before and after applying upda
 
 Before applying updates, the system SBOM scan identified 634 vulnerabilities across multiple severity levels, including critical and high-risk issues. After running `apt update` and `apt upgrade`, the vulnerability scan results remained the same.
 
-This indicates that the system was already fully updated before the lab began. As a result, there were no package changes and no reduction in vulnerabilities.
+This shows that the system was already fully updated before the lab began. As a result, there were no package changes and no reduction in vulnerabilities.
 
-## Key Insight
 
 Even though the system was “up to date,” vulnerabilities still existed. This shows that:
 - Not all vulnerabilities have available patches
